@@ -1,7 +1,8 @@
 Ser, estar und hay
 
-<a href="https://h5p.org/node/506002">Video explicativo</a> sobre el uso de los verbos ser/estar/hay
+<a href="https://h5p.org/node/506002">Video explicativo</a> sobre el uso de los verbos ser/estar/hay <br>
 
+<a href="https://h5p.org/node/506002">Hoja explicativa</a> sobre el uso de los verbos ser/estar/hay <br>
 
 
 Ejercicios para practicar el uso de los verbos ser, estar y hay.
