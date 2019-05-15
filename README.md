@@ -2,7 +2,7 @@
 
 <a href="https://sh.edupool.de/search?func=playlist&standort=IQSH&list=3881">Video explicativo</a> sobre el uso de los verbos ser/estar/hay <br>
 
-<a href="https://h5p.org/node/506002">Hoja explicativa</a> sobre el uso de los verbos ser/estar/hay <br>
+Die Regeln zur Verwendung von ser, estar und hay kannst du <a href="https://h5p.org/node/506002">hier</a> nochmal nachlesen. <br>
 
 
 Ejercicios para practicar el uso de los verbos ser, estar y hay.
