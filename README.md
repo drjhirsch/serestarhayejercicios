@@ -1,6 +1,6 @@
 # Ejercicios con ser, estar und hay
 
-<a href="https://sh.edupool.de/search?func=playlist&standort=IQSH&list=3881">Video explicativo</a> sobre el uso de los verbos ser/estar/hay <br>
+<a href="https://www.youtube.com/watch?v=sN4ydIBFjCg">Video explicativo</a> sobre el uso de los verbos ser/estar/hay <br>
 
 Die Regeln zur Verwendung von ser, estar und hay kannst du <a href="https://h5p.org/node/506002">hier</a> nochmal nachlesen. <br>
 
